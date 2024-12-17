@@ -13,9 +13,14 @@ let isLogedIn = 1
 
 let booleanIsLoggedIn = boolean(isLoggedIn)
 
-console.log(booleanIsLoggedIn);
+//console.log(booleanIsLoggedIn);
 
 //1 ==> true, 0==> false
 //"" ==> false
 //"nikhil" ==> true
+
+
+
+
+
 
